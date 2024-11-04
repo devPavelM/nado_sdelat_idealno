@@ -56,7 +56,7 @@ video {
 
 .page__heading:hover {
   color: #4c4c4c;
-  cursor: pointer;
+  cursor: default;
 }
 
 .page__heading:hover::before {
